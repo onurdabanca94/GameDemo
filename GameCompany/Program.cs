@@ -18,7 +18,7 @@ namespace GameCompany
                 DateOfBirth = new DateTime(1994,7,26),
                 Name = "Onur",
                 Surname = "Dabanca",
-                NationalityId = 0123456789,
+                NationalityId = 1234567890,
                 Alias = "Kamuflaj"
             });
             Console.ReadLine();
